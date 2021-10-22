@@ -1,0 +1,26 @@
+# Starting compiling UnityEngine.TestRunner.dll
+/Volumes/Beast/Unity/Editor/2020.3.20f1/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-b4f871f74e0724fc9a9894051a9f0f14
+# Starting compiling UnityEngine.UI.dll
+/Volumes/Beast/Unity/Editor/2020.3.20f1/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-4fa3f4277252b467c94d592b3b66cd9e
+# Starting compiling Unity.RenderPipelines.Universal.Shaders.dll
+/Volumes/Beast/Unity/Editor/2020.3.20f1/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-994177611444a4162930f4f6a73026d9
+# Starting compiling Unity.Timeline.dll
+/Volumes/Beast/Unity/Editor/2020.3.20f1/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-3d6e0a389716046ad97a95fc5e7ca1af
+# Starting compiling Unity.TextMeshPro.dll
+/Volumes/Beast/Unity/Editor/2020.3.20f1/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-e64096a0f8a4946cba5d352c0325eed1
+# Starting compiling Unity.RenderPipelines.Core.Runtime.dll
+/Volumes/Beast/Unity/Editor/2020.3.20f1/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-46e7ea0b32318456792fb6e42c4ba82b
+# Starting compiling Unity.RenderPipelines.Core.ShaderLibrary.dll
+/Volumes/Beast/Unity/Editor/2020.3.20f1/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-6ddcba3a9570742bc983d608ca5b40c2
+# Starting compiling Unity.Mathematics.dll
+/Volumes/Beast/Unity/Editor/2020.3.20f1/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-22ff77e9f52ef48969ebff574714650f
+# Starting compiling Unity.Postprocessing.Runtime.dll
+/Volumes/Beast/Unity/Editor/2020.3.20f1/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-8630ed14472b7486da1017040db52b86
+# Starting compiling Unity.RenderPipelines.ShaderGraph.ShaderGraphLibrary.dll
+/Volumes/Beast/Unity/Editor/2020.3.20f1/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-d5526dc94c9ec43f6bce66b025d88946
+# Starting compiling Unity.RenderPipeline.Universal.ShaderLibrary.dll
+/Volumes/Beast/Unity/Editor/2020.3.20f1/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-e345b7cbb4b604905acee31aeb1b54f7
+# Starting compiling Unity.RenderPipelines.Universal.Runtime.dll
+/Volumes/Beast/Unity/Editor/2020.3.20f1/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-9420a711cf8bc4ee3b53cf293c605987
+# Starting compiling Assembly-CSharp.dll
+/Volumes/Beast/Unity/Editor/2020.3.20f1/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-84c96176594d146e3a2334a29e1e6ca5
